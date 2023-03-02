@@ -1,0 +1,391 @@
+raceName,constructorId,status,points
+Bahrain Grand Prix,ferrari,Finished,25
+Bahrain Grand Prix,ferrari,Finished,18
+Bahrain Grand Prix,mclaren,Finished,15
+Bahrain Grand Prix,red_bull,Finished,12
+Bahrain Grand Prix,mercedes,Finished,10
+Bahrain Grand Prix,mercedes,Finished,8
+Bahrain Grand Prix,mclaren,Finished,6
+Bahrain Grand Prix,red_bull,Finished,4
+Bahrain Grand Prix,force_india,Finished,2
+Bahrain Grand Prix,williams,Finished,1
+Bahrain Grand Prix,renault,Finished,0
+Bahrain Grand Prix,force_india,Finished,0
+Bahrain Grand Prix,toro_rosso,Finished,0
+Bahrain Grand Prix,williams,+1 Lap,0
+Bahrain Grand Prix,lotus_racing,+2 Laps,0
+Bahrain Grand Prix,toro_rosso,Electrical,0
+Bahrain Grand Prix,lotus_racing,Hydraulics,0
+Bahrain Grand Prix,sauber,Hydraulics,0
+Bahrain Grand Prix,hrt,Overheating,0
+Bahrain Grand Prix,virgin,Gearbox,0
+Bahrain Grand Prix,renault,Suspension,0
+Bahrain Grand Prix,sauber,Hydraulics,0
+Bahrain Grand Prix,virgin,Hydraulics,0
+Bahrain Grand Prix,hrt,Accident,0
+Australian Grand Prix,mclaren,Finished,25
+Australian Grand Prix,renault,Finished,18
+Australian Grand Prix,ferrari,Finished,15
+Australian Grand Prix,ferrari,Finished,12
+Australian Grand Prix,mercedes,Finished,10
+Australian Grand Prix,mclaren,Finished,8
+Australian Grand Prix,red_bull,Finished,25
+Australian Grand Prix,mclaren,Finished,18
+Australian Grand Prix,renault,Finished,15
+Australian Grand Prix,ferrari,Finished,12
+Australian Grand Prix,red_bull,Finished,10
+Australian Grand Prix,mclaren,Finished,8
+Australian Grand Prix,ferrari,Finished,6
+Australian Grand Prix,toro_rosso,+1 Lap,4
+Australian Grand Prix,force_india,+1 Lap,2
+Australian Grand Prix,force_india,+1 Lap,1
+Australian Grand Prix,toro_rosso,+1 Lap,0
+Australian Grand Prix,renault,+1 Lap,0
+Australian Grand Prix,lotus_racing,+2 Laps,0
+Australian Grand Prix,virgin,+4 Laps,0
+Australian Grand Prix,virgin,+9 Laps,0
+Australian Grand Prix,williams,Transmission,0
+Australian Grand Prix,mercedes,Collision,0
+Australian Grand Prix,lotus_racing,Water leak,0
+Australian Grand Prix,mercedes,Collision,0
+Australian Grand Prix,williams,Transmission,0
+Australian Grand Prix,sauber,Disqualified,0
+Australian Grand Prix,sauber,Disqualified,0
+Australian Grand Prix,hrt,Did not qualify,0
+Australian Grand Prix,hrt,Did not qualify,0
+Malaysian Grand Prix,red_bull,Finished,25
+Malaysian Grand Prix,mclaren,Finished,18
+Malaysian Grand Prix,renault,Finished,15
+Malaysian Grand Prix,red_bull,Finished,12
+Malaysian Grand Prix,ferrari,Finished,10
+Malaysian Grand Prix,ferrari,Finished,8
+Australian Grand Prix,mclaren,Finished,25
+Australian Grand Prix,red_bull,Finished,18
+Australian Grand Prix,mclaren,Finished,15
+Australian Grand Prix,red_bull,Finished,12
+Australian Grand Prix,ferrari,Finished,10
+Australian Grand Prix,sauber,Finished,8
+Australian Grand Prix,lotus_f1,Finished,6
+Australian Grand Prix,sauber,Finished,4
+Australian Grand Prix,toro_rosso,Finished,2
+Australian Grand Prix,force_india,Finished,1
+Australian Grand Prix,toro_rosso,Finished,0
+Australian Grand Prix,mercedes,Finished,0
+Australian Grand Prix,williams,Accident,0
+Australian Grand Prix,marussia,+1 Lap,0
+Australian Grand Prix,marussia,+5 Laps,0
+Australian Grand Prix,williams,Collision,0
+Australian Grand Prix,ferrari,Collision,0
+Australian Grand Prix,caterham,Suspension,0
+Australian Grand Prix,caterham,Steering,0
+Australian Grand Prix,mercedes,Gearbox,0
+Australian Grand Prix,lotus_f1,Collision,0
+Australian Grand Prix,force_india,Collision,0
+Australian Grand Prix,hrt,Did not qualify,0
+Australian Grand Prix,hrt,Did not qualify,0
+Malaysian Grand Prix,ferrari,Finished,25
+Malaysian Grand Prix,sauber,Finished,18
+Malaysian Grand Prix,mclaren,Finished,15
+Malaysian Grand Prix,red_bull,Finished,12
+Malaysian Grand Prix,lotus_f1,Finished,10
+Malaysian Grand Prix,williams,Finished,8
+Australian Grand Prix,lotus_f1,Finished,25
+Australian Grand Prix,ferrari,Finished,18
+Australian Grand Prix,red_bull,Finished,15
+Australian Grand Prix,ferrari,Finished,12
+Australian Grand Prix,mercedes,Finished,10
+Australian Grand Prix,red_bull,Finished,8
+Australian Grand Prix,force_india,Finished,6
+Australian Grand Prix,force_india,Finished,4
+Australian Grand Prix,mclaren,Finished,2
+Australian Grand Prix,lotus_f1,Finished,1
+Australian Grand Prix,mclaren,Finished,0
+Australian Grand Prix,toro_rosso,Finished,0
+Australian Grand Prix,sauber,+1 Lap,0
+Australian Grand Prix,williams,+1 Lap,0
+Australian Grand Prix,marussia,+1 Lap,0
+Australian Grand Prix,caterham,+2 Laps,0
+Australian Grand Prix,marussia,+2 Laps,0
+Australian Grand Prix,caterham,+2 Laps,0
+Australian Grand Prix,toro_rosso,Hydraulics,0
+Australian Grand Prix,mercedes,Electrical,0
+Australian Grand Prix,williams,Spun off,0
+Australian Grand Prix,sauber,Fuel system,0
+Malaysian Grand Prix,red_bull,Finished,25
+Malaysian Grand Prix,red_bull,Finished,18
+Malaysian Grand Prix,mercedes,Finished,15
+Malaysian Grand Prix,mercedes,Finished,12
+Malaysian Grand Prix,ferrari,Finished,10
+Malaysian Grand Prix,lotus_f1,Finished,8
+Malaysian Grand Prix,lotus_f1,Finished,6
+Malaysian Grand Prix,sauber,Finished,4
+Australian Grand Prix,mercedes,Finished,25
+Australian Grand Prix,mclaren,Finished,18
+Australian Grand Prix,mclaren,Finished,15
+Australian Grand Prix,ferrari,Finished,12
+Australian Grand Prix,williams,Finished,10
+Australian Grand Prix,force_india,Finished,8
+Australian Grand Prix,ferrari,Finished,6
+Australian Grand Prix,toro_rosso,Finished,4
+Australian Grand Prix,toro_rosso,Finished,2
+Australian Grand Prix,force_india,Finished,1
+Australian Grand Prix,sauber,+1 Lap,0
+Australian Grand Prix,sauber,+1 Lap,0
+Australian Grand Prix,marussia,+2 Laps,0
+Australian Grand Prix,marussia,+8 Laps,0
+Australian Grand Prix,lotus_f1,ERS,0
+Australian Grand Prix,lotus_f1,ERS,0
+Australian Grand Prix,caterham,Oil pressure,0
+Australian Grand Prix,red_bull,Engine,0
+Australian Grand Prix,mercedes,Engine,0
+Australian Grand Prix,williams,Collision,0
+Australian Grand Prix,caterham,Collision,0
+Australian Grand Prix,red_bull,Disqualified,0
+Malaysian Grand Prix,mercedes,Finished,25
+Malaysian Grand Prix,mercedes,Finished,18
+Malaysian Grand Prix,red_bull,Finished,15
+Malaysian Grand Prix,ferrari,Finished,12
+Malaysian Grand Prix,force_india,Finished,10
+Malaysian Grand Prix,mclaren,Finished,8
+Malaysian Grand Prix,williams,Finished,6
+Malaysian Grand Prix,williams,Finished,4
+Australian Grand Prix,mercedes,Finished,25
+Australian Grand Prix,mercedes,Finished,18
+Australian Grand Prix,ferrari,Finished,15
+Australian Grand Prix,williams,Finished,12
+Australian Grand Prix,sauber,Finished,10
+Australian Grand Prix,red_bull,+1 Lap,8
+Australian Grand Prix,force_india,+1 Lap,6
+Australian Grand Prix,sauber,+1 Lap,4
+Australian Grand Prix,toro_rosso,+1 Lap,2
+Australian Grand Prix,force_india,+1 Lap,1
+Australian Grand Prix,mclaren,+2 Laps,0
+Australian Grand Prix,ferrari,Wheel,0
+Australian Grand Prix,toro_rosso,Engine,0
+Australian Grand Prix,lotus_f1,Power loss,0
+Australian Grand Prix,lotus_f1,Accident,0
+Australian Grand Prix,red_bull,Withdrew,0
+Australian Grand Prix,mclaren,Withdrew,0
+Australian Grand Prix,williams,Withdrew,0
+Malaysian Grand Prix,ferrari,Finished,25
+Malaysian Grand Prix,mercedes,Finished,18
+Malaysian Grand Prix,mercedes,Finished,15
+Malaysian Grand Prix,ferrari,Finished,12
+Malaysian Grand Prix,williams,Finished,10
+Malaysian Grand Prix,williams,Finished,8
+Malaysian Grand Prix,toro_rosso,Finished,6
+Malaysian Grand Prix,toro_rosso,+1 Lap,4
+Malaysian Grand Prix,red_bull,+1 Lap,2
+Malaysian Grand Prix,red_bull,+1 Lap,1
+Malaysian Grand Prix,lotus_f1,+1 Lap,0
+Malaysian Grand Prix,sauber,+1 Lap,0
+Australian Grand Prix,mercedes,Finished,25
+Australian Grand Prix,mercedes,Finished,18
+Australian Grand Prix,ferrari,Finished,15
+Australian Grand Prix,red_bull,Finished,12
+Australian Grand Prix,williams,Finished,10
+Australian Grand Prix,haas,Finished,8
+Australian Grand Prix,force_india,Finished,6
+Australian Grand Prix,williams,Finished,4
+Australian Grand Prix,toro_rosso,Finished,2
+Australian Grand Prix,toro_rosso,Finished,1
+Australian Grand Prix,renault,Finished,0
+Australian Grand Prix,renault,Finished,0
+Australian Grand Prix,force_india,Finished,0
+Australian Grand Prix,mclaren,+1 Lap,0
+Australian Grand Prix,sauber,+1 Lap,0
+Australian Grand Prix,manor,+1 Lap,0
+Australian Grand Prix,sauber,Engine,0
+Australian Grand Prix,ferrari,Engine,0
+Australian Grand Prix,manor,Mechanical,0
+Australian Grand Prix,haas,Collision,0
+Australian Grand Prix,mclaren,Collision,0
+Australian Grand Prix,red_bull,Retired,0
+Bahrain Grand Prix,mercedes,Finished,25
+Bahrain Grand Prix,ferrari,Finished,18
+Bahrain Grand Prix,mercedes,Finished,15
+Bahrain Grand Prix,red_bull,Finished,12
+Bahrain Grand Prix,haas,Finished,10
+Bahrain Grand Prix,toro_rosso,Finished,8
+Bahrain Grand Prix,red_bull,+1 Lap,6
+Bahrain Grand Prix,williams,+1 Lap,4
+Australian Grand Prix,ferrari,Finished,25
+Australian Grand Prix,mercedes,Finished,18
+Australian Grand Prix,mercedes,Finished,15
+Australian Grand Prix,ferrari,Finished,12
+Australian Grand Prix,red_bull,Finished,10
+Australian Grand Prix,williams,Finished,8
+Australian Grand Prix,force_india,+1 Lap,6
+Australian Grand Prix,toro_rosso,+1 Lap,4
+Australian Grand Prix,toro_rosso,+1 Lap,2
+Australian Grand Prix,force_india,+1 Lap,1
+Australian Grand Prix,renault,+1 Lap,0
+Australian Grand Prix,sauber,+2 Laps,0
+Australian Grand Prix,mclaren,+2 Laps,0
+Australian Grand Prix,mclaren,Vibrations,0
+Australian Grand Prix,haas,Suspension,0
+Australian Grand Prix,williams,Brakes,0
+Australian Grand Prix,red_bull,Power Unit,0
+Australian Grand Prix,sauber,Hydraulics,0
+Australian Grand Prix,renault,Brakes,0
+Australian Grand Prix,haas,Water leak,0
+Chinese Grand Prix,mercedes,Finished,25
+Chinese Grand Prix,ferrari,Finished,18
+Chinese Grand Prix,red_bull,Finished,15
+Chinese Grand Prix,red_bull,Finished,12
+Chinese Grand Prix,ferrari,Finished,10
+Chinese Grand Prix,mercedes,Finished,8
+Chinese Grand Prix,toro_rosso,Finished,6
+Chinese Grand Prix,haas,+1 Lap,4
+Chinese Grand Prix,force_india,+1 Lap,2
+Chinese Grand Prix,force_india,+1 Lap,1
+Australian Grand Prix,ferrari,Finished,25
+Australian Grand Prix,mercedes,Finished,18
+Australian Grand Prix,ferrari,Finished,15
+Australian Grand Prix,red_bull,Finished,12
+Australian Grand Prix,mclaren,Finished,10
+Australian Grand Prix,red_bull,Finished,8
+Australian Grand Prix,renault,Finished,6
+Australian Grand Prix,mercedes,Finished,4
+Australian Grand Prix,mclaren,Finished,2
+Australian Grand Prix,renault,Finished,1
+Australian Grand Prix,force_india,Finished,0
+Australian Grand Prix,force_india,Finished,0
+Australian Grand Prix,sauber,Finished,0
+Australian Grand Prix,williams,Finished,0
+Australian Grand Prix,toro_rosso,+1 Lap,0
+Australian Grand Prix,haas,Wheel,0
+Australian Grand Prix,haas,Wheel,0
+Australian Grand Prix,toro_rosso,Engine,0
+Australian Grand Prix,sauber,Steering,0
+Australian Grand Prix,williams,Brakes,0
+Bahrain Grand Prix,ferrari,Finished,25
+Bahrain Grand Prix,mercedes,Finished,18
+Bahrain Grand Prix,mercedes,Finished,15
+Bahrain Grand Prix,toro_rosso,Finished,12
+Bahrain Grand Prix,haas,Finished,10
+Bahrain Grand Prix,renault,Finished,8
+Bahrain Grand Prix,mclaren,+1 Lap,6
+Bahrain Grand Prix,mclaren,+1 Lap,4
+Bahrain Grand Prix,sauber,+1 Lap,2
+Bahrain Grand Prix,force_india,+1 Lap,1
+Australian Grand Prix,mercedes,Finished,26
+Australian Grand Prix,mercedes,Finished,18
+Australian Grand Prix,red_bull,Finished,15
+Australian Grand Prix,ferrari,Finished,12
+Australian Grand Prix,ferrari,Finished,10
+Australian Grand Prix,haas,Finished,8
+Australian Grand Prix,renault,+1 Lap,6
+Australian Grand Prix,alfa,+1 Lap,4
+Australian Grand Prix,racing_point,+1 Lap,2
+Australian Grand Prix,toro_rosso,+1 Lap,1
+Australian Grand Prix,red_bull,+1 Lap,0
+Australian Grand Prix,mclaren,+1 Lap,0
+Australian Grand Prix,racing_point,+1 Lap,0
+Australian Grand Prix,toro_rosso,+1 Lap,0
+Australian Grand Prix,alfa,+1 Lap,0
+Australian Grand Prix,williams,+2 Laps,0
+Australian Grand Prix,williams,+3 Laps,0
+Australian Grand Prix,haas,Wheel,0
+Australian Grand Prix,renault,Damage,0
+Australian Grand Prix,mclaren,Engine,0
+Bahrain Grand Prix,mercedes,Finished,25
+Bahrain Grand Prix,mercedes,Finished,18
+Bahrain Grand Prix,ferrari,Finished,16
+Bahrain Grand Prix,red_bull,Finished,12
+Bahrain Grand Prix,ferrari,Finished,10
+Bahrain Grand Prix,mclaren,Finished,8
+Bahrain Grand Prix,alfa,Finished,6
+Bahrain Grand Prix,red_bull,Finished,4
+Bahrain Grand Prix,toro_rosso,Finished,2
+Bahrain Grand Prix,racing_point,Finished,1
+Austrian Grand Prix,mercedes,Finished,25
+Austrian Grand Prix,ferrari,Finished,18
+Austrian Grand Prix,mclaren,Finished,16
+Austrian Grand Prix,mercedes,Finished,12
+Austrian Grand Prix,mclaren,Finished,10
+Austrian Grand Prix,racing_point,Finished,8
+Austrian Grand Prix,alphatauri,Finished,6
+Austrian Grand Prix,renault,Finished,4
+Austrian Grand Prix,alfa,Finished,2
+Austrian Grand Prix,ferrari,Finished,1
+Austrian Grand Prix,williams,Finished,0
+Austrian Grand Prix,alphatauri,Suspension,0
+Austrian Grand Prix,red_bull,Electronics,0
+Austrian Grand Prix,alfa,Wheel,0
+Austrian Grand Prix,williams,Fuel pressure,0
+Austrian Grand Prix,haas,Brakes,0
+Austrian Grand Prix,haas,Brakes,0
+Austrian Grand Prix,racing_point,Engine,0
+Austrian Grand Prix,renault,Overheating,0
+Austrian Grand Prix,red_bull,Electronics,0
+Styrian Grand Prix,mercedes,Finished,25
+Styrian Grand Prix,mercedes,Finished,18
+Styrian Grand Prix,red_bull,Finished,15
+Styrian Grand Prix,red_bull,Finished,12
+Styrian Grand Prix,mclaren,Finished,10
+Styrian Grand Prix,racing_point,Finished,8
+Styrian Grand Prix,racing_point,Finished,6
+Styrian Grand Prix,renault,Finished,4
+Styrian Grand Prix,mclaren,+1 Lap,3
+Styrian Grand Prix,alphatauri,+1 Lap,1
+Bahrain Grand Prix,mercedes,Finished,25
+Bahrain Grand Prix,red_bull,Finished,18
+Bahrain Grand Prix,mercedes,Finished,16
+Bahrain Grand Prix,mclaren,Finished,12
+Bahrain Grand Prix,red_bull,Finished,10
+Bahrain Grand Prix,ferrari,Finished,8
+Bahrain Grand Prix,mclaren,Finished,6
+Bahrain Grand Prix,ferrari,Finished,4
+Bahrain Grand Prix,alphatauri,Finished,2
+Bahrain Grand Prix,aston_martin,Finished,1
+Bahrain Grand Prix,alfa,Finished,0
+Bahrain Grand Prix,alfa,+1 Lap,0
+Bahrain Grand Prix,alpine,+1 Lap,0
+Bahrain Grand Prix,williams,+1 Lap,0
+Bahrain Grand Prix,aston_martin,+1 Lap,0
+Bahrain Grand Prix,haas,+1 Lap,0
+Bahrain Grand Prix,alphatauri,Retired,0
+Bahrain Grand Prix,williams,Retired,0
+Bahrain Grand Prix,alpine,Brakes,0
+Bahrain Grand Prix,haas,Accident,0
+Emilia Romagna Grand Prix,red_bull,Finished,25
+Emilia Romagna Grand Prix,mercedes,Finished,19
+Emilia Romagna Grand Prix,mclaren,Finished,15
+Emilia Romagna Grand Prix,ferrari,Finished,12
+Emilia Romagna Grand Prix,ferrari,Finished,10
+Emilia Romagna Grand Prix,mclaren,Finished,8
+Emilia Romagna Grand Prix,alphatauri,Finished,6
+Emilia Romagna Grand Prix,aston_martin,Finished,4
+Emilia Romagna Grand Prix,alpine,Finished,2
+Emilia Romagna Grand Prix,alpine,Finished,1
+Bahrain Grand Prix,ferrari,Finished,26
+Bahrain Grand Prix,ferrari,Finished,18
+Bahrain Grand Prix,mercedes,Finished,15
+Bahrain Grand Prix,mercedes,Finished,12
+Bahrain Grand Prix,haas,Finished,10
+Bahrain Grand Prix,alfa,Finished,8
+Bahrain Grand Prix,alpine,Finished,6
+Bahrain Grand Prix,alphatauri,Finished,4
+Bahrain Grand Prix,alpine,Finished,2
+Bahrain Grand Prix,alfa,Finished,1
+Bahrain Grand Prix,haas,Finished,0
+Bahrain Grand Prix,aston_martin,Finished,0
+Bahrain Grand Prix,williams,Finished,0
+Bahrain Grand Prix,mclaren,Finished,0
+Bahrain Grand Prix,mclaren,Finished,0
+Bahrain Grand Prix,williams,Finished,0
+Bahrain Grand Prix,aston_martin,Finished,0
+Bahrain Grand Prix,red_bull,Fuel pressure,0
+Bahrain Grand Prix,red_bull,Fuel pressure,0
+Bahrain Grand Prix,alphatauri,Power Unit,0
+Saudi Arabian Grand Prix,red_bull,Finished,25
+Saudi Arabian Grand Prix,ferrari,Finished,19
+Saudi Arabian Grand Prix,ferrari,Finished,15
+Saudi Arabian Grand Prix,red_bull,Finished,12
+Saudi Arabian Grand Prix,mercedes,Finished,10
+Saudi Arabian Grand Prix,alpine,Finished,8
+Saudi Arabian Grand Prix,mclaren,Finished,6
+Saudi Arabian Grand Prix,alphatauri,Finished,4
+Saudi Arabian Grand Prix,haas,Finished,2
+Saudi Arabian Grand Prix,mercedes,Finished,1
