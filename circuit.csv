@@ -254,3 +254,26 @@ season,circuitId,circuitName,lat,long,locality,country,url
 2022,villeneuve,Circuit Gilles Villeneuve,45.5,-73.5228,Montreal,Canada,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
 2022,yas_marina,Yas Marina Circuit,24.4672,54.6031,Abu Dhabi,UAE,http://en.wikipedia.org/wiki/Yas_Marina_Circuit
 2022,zandvoort,Circuit Park Zandvoort,52.3888,4.54092,Zandvoort,Netherlands,http://en.wikipedia.org/wiki/Circuit_Zandvoort
+2023,albert_park,Albert Park Grand Prix Circuit,-37.8497,144.968,Melbourne,Australia,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+2023,americas,Circuit of the Americas,30.1328,-97.6411,Austin,USA,http://en.wikipedia.org/wiki/Circuit_of_the_Americas
+2023,bahrain,Bahrain International Circuit,26.0325,50.5106,Sakhir,Bahrain,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+2023,baku,Baku City Circuit,40.3725,49.8533,Baku,Azerbaijan,http://en.wikipedia.org/wiki/Baku_City_Circuit
+2023,catalunya,Circuit de Barcelona-Catalunya,41.57,2.26111,Montmeló,Spain,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+2023,hungaroring,Hungaroring,47.5789,19.2486,Budapest,Hungary,http://en.wikipedia.org/wiki/Hungaroring
+2023,imola,Autodromo Enzo e Dino Ferrari,44.3439,11.7167,Imola,Italy,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+2023,interlagos,Autódromo José Carlos Pace,-23.7036,-46.6997,São Paulo,Brazil,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+2023,jeddah,Jeddah Corniche Circuit,21.6319,39.1044,Jeddah,Saudi Arabia,http://en.wikipedia.org/wiki/Jeddah_Street_Circuit
+2023,losail,Losail International Circuit,25.49,51.4542,Al Daayen,Qatar,http://en.wikipedia.org/wiki/Losail_International_Circuit
+2023,marina_bay,Marina Bay Street Circuit,1.2914,103.864,Marina Bay,Singapore,http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit
+2023,miami,Miami International Autodrome,25.9581,-80.2389,Miami,USA,http://en.wikipedia.org/wiki/Miami_International_Autodrome
+2023,monaco,Circuit de Monaco,43.7347,7.42056,Monte-Carlo,Monaco,http://en.wikipedia.org/wiki/Circuit_de_Monaco
+2023,monza,Autodromo Nazionale di Monza,45.6156,9.28111,Monza,Italy,http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza
+2023,red_bull_ring,Red Bull Ring,47.2197,14.7647,Spielberg,Austria,http://en.wikipedia.org/wiki/Red_Bull_Ring
+2023,rodriguez,Autódromo Hermanos Rodríguez,19.4042,-99.0907,Mexico City,Mexico,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez
+2023,silverstone,Silverstone Circuit,52.0786,-1.01694,Silverstone,UK,http://en.wikipedia.org/wiki/Silverstone_Circuit
+2023,spa,Circuit de Spa-Francorchamps,50.4372,5.97139,Spa,Belgium,http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps
+2023,suzuka,Suzuka Circuit,34.8431,136.541,Suzuka,Japan,http://en.wikipedia.org/wiki/Suzuka_Circuit
+2023,vegas,Las Vegas Strip Street Circuit,36.1147,-115.173,Las Vegas,United States,https://en.wikipedia.org/wiki/Las_Vegas_Grand_Prix#Circuit
+2023,villeneuve,Circuit Gilles Villeneuve,45.5,-73.5228,Montreal,Canada,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
+2023,yas_marina,Yas Marina Circuit,24.4672,54.6031,Abu Dhabi,UAE,http://en.wikipedia.org/wiki/Yas_Marina_Circuit
+2023,zandvoort,Circuit Park Zandvoort,52.3888,4.54092,Zandvoort,Netherlands,http://en.wikipedia.org/wiki/Circuit_Zandvoort
